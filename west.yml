@@ -130,6 +130,7 @@ manifest:
       repo-path: connected_home_v211
       path: modules/lib/matter
       revision: 18e0186a67a2f9691ab9b0286438d71d043d5876
+      remote: my_connected_home
       submodules:
         - name: nlio
           path: third_party/nlio/repo
